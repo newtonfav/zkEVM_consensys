@@ -1,0 +1,14 @@
+{
+  "name": "infura",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Favour Oghenekowho",
+  "license": "ISC",
+  "dependencies": {
+    "@truffle/contract": "^4.6.15"
+  }
+}
